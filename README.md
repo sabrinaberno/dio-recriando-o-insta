@@ -1,2 +1,2 @@
-# dio-recriando-o-insta
+# Recriando a página inicial do Instagram
 Adaptação do projeto "Recriando a página inicial do Instagram" feita durante o curso HTML Web Developer pela Digital Innovation One.
